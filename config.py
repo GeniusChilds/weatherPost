@@ -4,7 +4,7 @@ app_id = "wx36cbb2114a7850f4"
 # 公众号appSecret
 app_secret = "3ba3382a65aa114c03ae863beca4db7f"
 # 模板消息id
-template_id = "Wq3jH3Ipvf1Pd30Lc-dbG0ZVR4AC91S3HAPf5P9vkqY"
+template_id = "deagCOCu2Q_S0GX5NQw7e43gRY11p21kSf0OBAktcUw"
 # 接收公众号消息的微信号
 
 # 这是openid
