@@ -8,7 +8,7 @@ template_id = "deagCOCu2Q_S0GX5NQw7e43gRY11p21kSf0OBAktcUw"
 # 接收公众号消息的微信号
 
 # 这是openid
-user = ["oYZrY6BDfbv2wIBIW2aNBI6xsHRg"]
+user = ["oYZrY6JfysQ8ppKWc4d33xyGQCvY","oYZrY6BDfbv2wIBIW2aNBI6xsHRg"]
 
 # 信息配置
 # 所在省份
